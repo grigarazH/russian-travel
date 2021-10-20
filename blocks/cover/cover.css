@@ -1,6 +1,7 @@
 .cover {
   width: 100%;
-  padding: 62.5%;
+  padding-bottom: 62.5%;
   max-width: 1184px;
+  position: relative;
 }
 
