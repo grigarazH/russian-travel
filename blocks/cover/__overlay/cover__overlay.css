@@ -17,8 +17,8 @@
 
 @media screen and (max-width: 767px) {
   .cover__overlay {
-    padding-top: calc(31.25% - 38.5px);
-    padding-bottom: calc(31.25% - 38.5px);
+    padding-top: calc(31.25% - 33.5px);
+    padding-bottom: calc(31.25% - 33.5px);
   }
 }
 
