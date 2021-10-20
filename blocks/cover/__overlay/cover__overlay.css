@@ -8,7 +8,7 @@
   aspect-ratio: 16 / 10;
   background-image: url(../../../images/cover-trains.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   text-decoration: none;
   color: #fff;
 }
